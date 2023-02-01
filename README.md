@@ -1,3 +1,4 @@
 # Titanic-Dashboard
 Titanic Dataset Analysis
-![Screenshot 2022-10-01 162233](https://user-images.githubusercontent.com/110452335/197773457-adc26f8f-91c8-4110-afac-af29e697e8fe.png)
+![Screenshot 2023-02-02 013114](https://user-images.githubusercontent.com/110452335/216179281-4cacc4a4-f3ec-4427-b41d-70045549342b.png)
+
